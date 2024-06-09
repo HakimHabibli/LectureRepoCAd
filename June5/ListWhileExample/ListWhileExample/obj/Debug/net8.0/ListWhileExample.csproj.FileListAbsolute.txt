@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\bin\Debug\net8.0\ListWhileExample.exe
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\bin\Debug\net8.0\ListWhileExample.deps.json
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\bin\Debug\net8.0\ListWhileExample.runtimeconfig.json
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\bin\Debug\net8.0\ListWhileExample.dll
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\bin\Debug\net8.0\ListWhileExample.pdb
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\obj\Debug\net8.0\ListWhileExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\obj\Debug\net8.0\ListWhileExample.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\obj\Debug\net8.0\ListWhileExample.AssemblyInfo.cs
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\obj\Debug\net8.0\ListWhileExample.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\obj\Debug\net8.0\ListWhileExample.sourcelink.json
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\obj\Debug\net8.0\ListWhileExample.dll
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\obj\Debug\net8.0\refint\ListWhileExample.dll
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\obj\Debug\net8.0\ListWhileExample.pdb
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\obj\Debug\net8.0\ListWhileExample.genruntimeconfig.cache
+C:\Users\77upt\Desktop\LetruceRepo\June5\ListWhileExample\ListWhileExample\obj\Debug\net8.0\ref\ListWhileExample.dll

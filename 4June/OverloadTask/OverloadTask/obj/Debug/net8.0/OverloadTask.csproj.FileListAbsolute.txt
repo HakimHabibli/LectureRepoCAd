@@ -1,0 +1,5 @@
+C:\Users\77upt\Desktop\LetruceRepo\4June\OverloadTask\OverloadTask\obj\Debug\net8.0\OverloadTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\LetruceRepo\4June\OverloadTask\OverloadTask\obj\Debug\net8.0\OverloadTask.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\LetruceRepo\4June\OverloadTask\OverloadTask\obj\Debug\net8.0\OverloadTask.AssemblyInfo.cs
+C:\Users\77upt\Desktop\LetruceRepo\4June\OverloadTask\OverloadTask\obj\Debug\net8.0\OverloadTask.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\LetruceRepo\4June\OverloadTask\OverloadTask\obj\Debug\net8.0\OverloadTask.sourcelink.json

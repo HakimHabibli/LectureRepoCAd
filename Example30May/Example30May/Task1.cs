@@ -15,13 +15,12 @@ namespace Example30May
             if (count >= 1 && count <= 6)
             {
                 int[] array = new int[0];
-                int random = Random.Shared.Next(1, 49);
+                int random = Random.Shared.Next(1, 50);
                 while (count != 0)
                 {
                     while (array.Contains(random))
                     {
-                        random = Random.Shared.Next(1, 49);
-
+                        random = Random.Shared.Next(1, 50);
                     }
                     Array.Resize(ref array, array.Length + 1);
                     array[array.Length - 1] = random;

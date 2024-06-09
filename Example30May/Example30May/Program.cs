@@ -7,7 +7,7 @@ namespace Example30May
     {
         static void Main(string[] args)
         {
-            int[] array = { 0, 2, 3, 5, -45, 556, 687, -12442 };
+            //int[] array = { 0, 2, 3, 5, -45, 556, 687, -12442 };
             Task1.ExampleWhile();
             //ExampleForeach(array)
             //Task1.ExampleDigitsofNumber(21);
