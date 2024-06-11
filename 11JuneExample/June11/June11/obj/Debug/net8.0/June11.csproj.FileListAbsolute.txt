@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\obj\Debug\net8.0\June11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\obj\Debug\net8.0\June11.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\obj\Debug\net8.0\June11.AssemblyInfo.cs
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\obj\Debug\net8.0\June11.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\obj\Debug\net8.0\June11.sourcelink.json
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\bin\Debug\net8.0\June11.exe
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\bin\Debug\net8.0\June11.deps.json
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\bin\Debug\net8.0\June11.runtimeconfig.json
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\bin\Debug\net8.0\June11.dll
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\bin\Debug\net8.0\June11.pdb
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\obj\Debug\net8.0\June11.dll
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\obj\Debug\net8.0\refint\June11.dll
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\obj\Debug\net8.0\June11.pdb
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\obj\Debug\net8.0\June11.genruntimeconfig.cache
+C:\Users\77upt\Desktop\Task Folder\11JuneExample\June11\June11\obj\Debug\net8.0\ref\June11.dll

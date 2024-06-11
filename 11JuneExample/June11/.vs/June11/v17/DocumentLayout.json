@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\77upt\\Desktop\\Task Folder\\11JuneExample\\June11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2381132A-BD04-4178-AA84-DAB5D924C975}|June11\\June11.csproj|c:\\users\\77upt\\desktop\\task folder\\11juneexample\\june11\\june11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381132A-BD04-4178-AA84-DAB5D924C975}|June11\\June11.csproj|solutionrelative:june11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2381132A-BD04-4178-AA84-DAB5D924C975}|June11\\June11.csproj|c:\\users\\77upt\\desktop\\task folder\\11juneexample\\june11\\june11\\models\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381132A-BD04-4178-AA84-DAB5D924C975}|June11\\June11.csproj|solutionrelative:june11\\models\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2381132A-BD04-4178-AA84-DAB5D924C975}|June11\\June11.csproj|c:\\users\\77upt\\desktop\\task folder\\11juneexample\\june11\\june11\\models\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381132A-BD04-4178-AA84-DAB5D924C975}|June11\\June11.csproj|solutionrelative:june11\\models\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2381132A-BD04-4178-AA84-DAB5D924C975}|June11\\June11.csproj|c:\\users\\77upt\\desktop\\task folder\\11juneexample\\june11\\june11\\models\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381132A-BD04-4178-AA84-DAB5D924C975}|June11\\June11.csproj|solutionrelative:june11\\models\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2381132A-BD04-4178-AA84-DAB5D924C975}|June11\\June11.csproj|c:\\users\\77upt\\desktop\\task folder\\11juneexample\\june11\\june11\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381132A-BD04-4178-AA84-DAB5D924C975}|June11\\June11.csproj|solutionrelative:june11\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\11JuneExample\\June11\\June11\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "June11\\Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\11JuneExample\\June11\\June11\\Helpers\\Helper.cs",
+              "RelativeToolTip": "June11\\Helpers\\Helper.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:00:25.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\11JuneExample\\June11\\June11\\Models\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "June11\\Models\\HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\11JuneExample\\June11\\June11\\Models\\HourlyEmployee.cs",
+              "RelativeToolTip": "June11\\Models\\HourlyEmployee.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:47:33.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\11JuneExample\\June11\\June11\\Models\\IEmployee.cs",
+              "RelativeDocumentMoniker": "June11\\Models\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\11JuneExample\\June11\\June11\\Models\\IEmployee.cs",
+              "RelativeToolTip": "June11\\Models\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:43:14.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\11JuneExample\\June11\\June11\\Program.cs",
+              "RelativeDocumentMoniker": "June11\\Program.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\11JuneExample\\June11\\June11\\Program.cs",
+              "RelativeToolTip": "June11\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:40:48.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Task Folder\\11JuneExample\\June11\\June11\\Models\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "June11\\Models\\SalariedEmployee.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Task Folder\\11JuneExample\\June11\\June11\\Models\\SalariedEmployee.cs",
+              "RelativeToolTip": "June11\\Models\\SalariedEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:52:16.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

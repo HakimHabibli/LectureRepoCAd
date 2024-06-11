@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\77upt\\Desktop\\LetruceRepo\\10June\\InteFace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F1A6BE-7755-498B-B637-FB82B5977A41}|Task1\\Task1.csproj|c:\\users\\77upt\\desktop\\letrucerepo\\10june\\inteface\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F1A6BE-7755-498B-B637-FB82B5977A41}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5E26E3-3B37-4C94-9FA3-115596CFD94D}|InteFace\\InterFace.csproj|c:\\users\\77upt\\desktop\\letrucerepo\\10june\\inteface\\inteface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5E26E3-3B37-4C94-9FA3-115596CFD94D}|InteFace\\InterFace.csproj|solutionrelative:inteface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\LetruceRepo\\10June\\InteFace\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\LetruceRepo\\10June\\InteFace\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:29:00.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\LetruceRepo\\10June\\InteFace\\InteFace\\Program.cs",
+              "RelativeDocumentMoniker": "InteFace\\Program.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\LetruceRepo\\10June\\InteFace\\InteFace\\Program.cs",
+              "RelativeToolTip": "InteFace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:27:07.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

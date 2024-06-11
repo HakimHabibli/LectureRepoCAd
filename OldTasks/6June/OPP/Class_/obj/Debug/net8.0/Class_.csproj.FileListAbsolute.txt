@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\bin\Debug\net8.0\Class_.exe
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\bin\Debug\net8.0\Class_.deps.json
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\bin\Debug\net8.0\Class_.runtimeconfig.json
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\bin\Debug\net8.0\Class_.dll
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\bin\Debug\net8.0\Class_.pdb
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\obj\Debug\net8.0\Class_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\obj\Debug\net8.0\Class_.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\obj\Debug\net8.0\Class_.AssemblyInfo.cs
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\obj\Debug\net8.0\Class_.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\obj\Debug\net8.0\Class_.sourcelink.json
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\obj\Debug\net8.0\Class_.dll
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\obj\Debug\net8.0\refint\Class_.dll
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\obj\Debug\net8.0\Class_.pdb
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\obj\Debug\net8.0\Class_.genruntimeconfig.cache
+C:\Users\77upt\Desktop\Task Folder\6June\OPP\Class_\obj\Debug\net8.0\ref\Class_.dll
