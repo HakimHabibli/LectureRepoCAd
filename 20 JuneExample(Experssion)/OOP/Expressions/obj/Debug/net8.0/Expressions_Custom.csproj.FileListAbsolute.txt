@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\bin\Debug\net8.0\Expressions_Custom.exe
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\bin\Debug\net8.0\Expressions_Custom.deps.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\bin\Debug\net8.0\Expressions_Custom.runtimeconfig.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\bin\Debug\net8.0\Expressions_Custom.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\bin\Debug\net8.0\Expressions_Custom.pdb
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions_Custom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions_Custom.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions_Custom.AssemblyInfo.cs
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions_Custom.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions_Custom.sourcelink.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions_Custom.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\refint\Expressions_Custom.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions_Custom.pdb
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions_Custom.genruntimeconfig.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\ref\Expressions_Custom.dll

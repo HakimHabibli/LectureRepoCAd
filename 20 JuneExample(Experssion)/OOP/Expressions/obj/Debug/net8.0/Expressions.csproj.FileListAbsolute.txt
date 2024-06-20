@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\bin\Debug\net8.0\Expressions.exe
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\bin\Debug\net8.0\Expressions.deps.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\bin\Debug\net8.0\Expressions.runtimeconfig.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\bin\Debug\net8.0\Expressions.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\bin\Debug\net8.0\Expressions.pdb
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfo.cs
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions.sourcelink.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\refint\Expressions.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions.pdb
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\Expressions.genruntimeconfig.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Expressions\obj\Debug\net8.0\ref\Expressions.dll

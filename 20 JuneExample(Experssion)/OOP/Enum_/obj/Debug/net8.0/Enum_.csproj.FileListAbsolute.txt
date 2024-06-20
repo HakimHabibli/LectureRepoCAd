@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\bin\Debug\net8.0\Enum_.exe
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\bin\Debug\net8.0\Enum_.deps.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\bin\Debug\net8.0\Enum_.runtimeconfig.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\bin\Debug\net8.0\Enum_.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\bin\Debug\net8.0\Enum_.pdb
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\obj\Debug\net8.0\Enum_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\obj\Debug\net8.0\Enum_.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\obj\Debug\net8.0\Enum_.AssemblyInfo.cs
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\obj\Debug\net8.0\Enum_.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\obj\Debug\net8.0\Enum_.sourcelink.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\obj\Debug\net8.0\Enum_.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\obj\Debug\net8.0\refint\Enum_.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\obj\Debug\net8.0\Enum_.pdb
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\obj\Debug\net8.0\Enum_.genruntimeconfig.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Enum_\obj\Debug\net8.0\ref\Enum_.dll

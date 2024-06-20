@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\bin\Debug\net8.0\Abstract_.exe
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\bin\Debug\net8.0\Abstract_.deps.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\bin\Debug\net8.0\Abstract_.runtimeconfig.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\bin\Debug\net8.0\Abstract_.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\bin\Debug\net8.0\Abstract_.pdb
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\obj\Debug\net8.0\Abstract_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\obj\Debug\net8.0\Abstract_.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\obj\Debug\net8.0\Abstract_.AssemblyInfo.cs
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\obj\Debug\net8.0\Abstract_.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\obj\Debug\net8.0\Abstract_.sourcelink.json
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\obj\Debug\net8.0\Abstract_.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\obj\Debug\net8.0\refint\Abstract_.dll
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\obj\Debug\net8.0\Abstract_.pdb
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\obj\Debug\net8.0\Abstract_.genruntimeconfig.cache
+C:\Users\77upt\Desktop\RNet104\RNET104\Week-5\Day-4\OOP\Abstract_\obj\Debug\net8.0\ref\Abstract_.dll
