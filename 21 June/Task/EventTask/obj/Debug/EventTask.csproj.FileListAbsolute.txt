@@ -1,0 +1,14 @@
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\bin\Debug\EventTask.exe.config
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\bin\Debug\EventTask.exe
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\bin\Debug\EventTask.pdb
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\bin\Debug\CircularProgressBar.dll
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\bin\Debug\WinFormAnimation.dll
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\bin\Debug\CircularProgressBar.xml
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\obj\Debug\EventTask.csproj.AssemblyReference.cache
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\obj\Debug\EventTask.Form1.resources
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\obj\Debug\EventTask.Properties.Resources.resources
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\obj\Debug\EventTask.csproj.GenerateResource.cache
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\obj\Debug\EventTask.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\obj\Debug\EventTask.csproj.Up2Date
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\obj\Debug\EventTask.exe
+C:\Users\77upt\Desktop\LetruceRepo\21 June\Task\EventTask\obj\Debug\EventTask.pdb

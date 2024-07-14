@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\bin\Debug\net8.0\Task9July.exe
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\bin\Debug\net8.0\Task9July.deps.json
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\bin\Debug\net8.0\Task9July.runtimeconfig.json
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\bin\Debug\net8.0\Task9July.dll
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\bin\Debug\net8.0\Task9July.pdb
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\obj\Debug\net8.0\Task9July.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\obj\Debug\net8.0\Task9July.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\obj\Debug\net8.0\Task9July.AssemblyInfo.cs
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\obj\Debug\net8.0\Task9July.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\obj\Debug\net8.0\Task9July.sourcelink.json
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\obj\Debug\net8.0\Task9July.dll
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\obj\Debug\net8.0\refint\Task9July.dll
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\obj\Debug\net8.0\Task9July.pdb
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\obj\Debug\net8.0\Task9July.genruntimeconfig.cache
+C:\Users\77upt\Desktop\LetruceRepo\Task9July\Task9July\obj\Debug\net8.0\ref\Task9July.dll

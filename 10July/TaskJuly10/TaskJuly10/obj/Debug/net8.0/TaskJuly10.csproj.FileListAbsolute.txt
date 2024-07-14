@@ -1,0 +1,15 @@
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\bin\Debug\net8.0\TaskJuly10.exe
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\bin\Debug\net8.0\TaskJuly10.deps.json
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\bin\Debug\net8.0\TaskJuly10.runtimeconfig.json
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\bin\Debug\net8.0\TaskJuly10.dll
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\bin\Debug\net8.0\TaskJuly10.pdb
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\obj\Debug\net8.0\TaskJuly10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\obj\Debug\net8.0\TaskJuly10.AssemblyInfoInputs.cache
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\obj\Debug\net8.0\TaskJuly10.AssemblyInfo.cs
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\obj\Debug\net8.0\TaskJuly10.csproj.CoreCompileInputs.cache
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\obj\Debug\net8.0\TaskJuly10.sourcelink.json
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\obj\Debug\net8.0\TaskJuly10.dll
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\obj\Debug\net8.0\refint\TaskJuly10.dll
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\obj\Debug\net8.0\TaskJuly10.pdb
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\obj\Debug\net8.0\TaskJuly10.genruntimeconfig.cache
+C:\Users\77upt\Desktop\LetruceRepo\10July\TaskJuly10\TaskJuly10\obj\Debug\net8.0\ref\TaskJuly10.dll

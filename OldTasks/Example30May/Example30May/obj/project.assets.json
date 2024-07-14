@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\77upt\\Desktop\\LetruceRepo\\Example30May\\Example30May\\Example30May.csproj",
+      "projectUniqueName": "C:\\Users\\77upt\\Desktop\\LetruceRepo\\OldTasks\\Example30May\\Example30May\\Example30May.csproj",
       "projectName": "Example30May",
-      "projectPath": "C:\\Users\\77upt\\Desktop\\LetruceRepo\\Example30May\\Example30May\\Example30May.csproj",
+      "projectPath": "C:\\Users\\77upt\\Desktop\\LetruceRepo\\OldTasks\\Example30May\\Example30May\\Example30May.csproj",
       "packagesPath": "C:\\Users\\77upt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\77upt\\Desktop\\LetruceRepo\\Example30May\\Example30May\\obj\\",
+      "outputPath": "C:\\Users\\77upt\\Desktop\\LetruceRepo\\OldTasks\\Example30May\\Example30May\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\77upt\\AppData\\Roaming\\NuGet\\NuGet.Config",
